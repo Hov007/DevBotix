@@ -1,0 +1,6 @@
+ADMIN PASSWORD
+BritishCat - LOGIN
+BritishCat - PASSWORD
+
+INSTALL REQUIREMENTS 
+pip install -r requirements.txt

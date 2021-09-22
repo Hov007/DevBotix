@@ -1,0 +1,83 @@
+.gradient {
+  background: linear-gradient(-85deg, #64C8BD 0%,#094A6F 80%);
+}
+
+#rm {
+  border-radius: 50%;
+  border: 3.3px solid #64C8BD;
+}
+
+
+.rectangles .rectangle {
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  width: 250px;
+  height: 120px;
+  border: 4.2px solid #64C8BD;
+  background-color: #094A6F;
+  padding: 10px 10px 10px 100px;
+  position: relative;
+}
+
+.rectangles .rectangle .circle {
+background: #094A6F;
+border-radius: 100%;
+height: 80px;
+width: 80px;
+position: absolute;
+top: 12px;
+left: 12px;
+}
+
+#rm {
+position: absolute;
+border-radius: 50%;
+height: 80px;
+width: 80px;
+}
+
+.about {
+  text-align:center;
+}
+
+.cont {
+  text-align:center;
+
+}
+
+
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: /*rgba(100,200,189, 0.5);*/ rgba(0,0,0, 0.5);
+  min-width: 70px;
+  box-shadow: 0px 8px px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  border-radius: 20%;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  /*background-color: (100,200,189); /*#64C8BD  #094A6F*/
+}
+
+
+.lang {
+  text-transform: uppercase;
+  color: black;
+}
+
+#flag {
+  width: 40px;
+  height: 40px;
+}

@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-09 16:42+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: main/templates/main/index.html:58
+msgid "MAIN"
+msgstr "Հիմնական"
+
+#: main/templates/main/index.html:61 main/templates/main/index.html:231
+msgid "PORTFOLIO"
+msgstr "Պորտֆոլիո"
+
+#: main/templates/main/index.html:64 main/templates/main/index.html:153
+msgid "SERVICES"
+msgstr "Ծառայություններ"
+
+#: main/templates/main/index.html:67
+msgid "ABOUT US"
+msgstr "Մեր Մասին"
+
+#: main/templates/main/index.html:70 main/templates/main/index.html:356
+msgid "CONTACTS"
+msgstr "Կապ"
+
+#: main/templates/main/index.html:74
+msgid "LANGUAGES"
+msgstr "Լեզուներ"
+
+#: main/templates/main/index.html:98
+msgid "ORDER"
+msgstr "ՊԱՏՎԻՐԵԼ"
+
+#: main/templates/main/index.html:115
+msgid "Need a website?"
+msgstr "Ցանկանում ե՞ք վեբկայք"
+
+#: main/templates/main/index.html:117
+msgid "Create your own unique style website!"
+msgstr "Ստեղծեք ձեր ուրույն ոճով վեբկայքը"
+
+#: main/templates/main/index.html:120
+msgid "Look up the services and choose the option and order"
+msgstr "Ծանոթացեք ծառայություններին, ընտրեք տարբերակը և պատվիրեք"
+
+#: main/templates/main/index.html:165
+msgid "Full website"
+msgstr "Ամբողջական վեբկայք"
+
+#: main/templates/main/index.html:168
+msgid ""
+"By choosing this option you will get the full website with your requirements."
+"Website will include the backend, frontent,design and the deployment."
+msgstr "Ընտրելով այս տարբերակը՝ Դուք կունենաք ամբողջական վեբկայք Ձեր նախընտրած պահանջներով։Կայքը կընդգրկի backend, frontent և դիզայն։"
+
+#: main/templates/main/index.html:175 main/templates/main/index.html:197
+#: main/templates/main/index.html:219
+msgid "Order"
+msgstr "Պատվիրել"
+
+#: main/templates/main/index.html:187
+msgid "Backend/Frontend development."
+msgstr "Backend/Frontend"
+
+#: main/templates/main/index.html:190
+msgid ""
+"By choosing this option you will get the backend or frontend by your choise."
+"It will include all the connections with your already ready-made code."
+msgstr "Ընտրելով այս տարբերակը՝ Դուք կստանաք backend կամ frontend տարբերակը ձեր ընտրությամբ։Այն կընդգրկի ամբողջական կապ արդեն պատրաստի կոդի հետ։"
+
+#: main/templates/main/index.html:209
+msgid "Web Design."
+msgstr "Դիզայն"
+
+#: main/templates/main/index.html:212
+msgid ""
+"By choosing this option you will get the full design of your future website."
+"Our team will give you the best service to setisfy your requirements."
+msgstr "Ընտրելով այս տարբերակը՝ Դուք կստանաք Ձեր ապագա կայքի ամբողջական դիզայնը։"
+
+#: main/templates/main/index.html:291
+msgid ""
+"Evergrowing competition nowadays demands an extraordinary level of website "
+"performance."
+msgstr "Մեր օրերում աճող մրցակցությունը պահանջում է վեբ կայքի արտակարգ մակարդակ։"
+
+#: main/templates/main/index.html:293
+msgid ""
+"Sites today need to be more attractive and engaging to drive higher "
+"conversions on mobile devices and desktop."
+msgstr "Կայքերը այսօր պետք է լինեն ավելի գրավիչ և ունենան համատեղելիություն և հեռախոսների և համակարգիչների հետ։"
+
+#: main/templates/main/index.html:295
+msgid ""
+"We are highly experienced in developing, customising and supporting design "
+"templates for a diverse range of clients."
+msgstr "Մենք ունենք մեծ փորձ կայքերի ստեղծման, զարգացման ու մատուցման մեջ և աշխատում ենք հաճախորդների մեծ շրջանակի հետ։"
+
+#: main/templates/main/index.html:297
+msgid "We utilise best practice web design techniques and online trends."
+msgstr "Մենք օգտագործում ենք վեբ դիզայնի լավագույն միջոցները և հետևում ենք նոր տենդենցներին։"
+
+#: main/templates/main/index.html:337
+msgid "Create your own unique website"
+msgstr "Ստեղծեք Ձեր ուրույն վեբկայքը"
+
+#: main/templates/main/index.html:343
+msgid "For more information please contact us"
+msgstr "Մանրամասների համար կապնվել մեզ հետ"
+
+#: main/templates/main/index.html:346
+msgid "Contact"
+msgstr "Կապ"
+
+#: main/templates/main/index.html:365
+msgid "Telegram"
+msgstr "Տելեգրամ"
+
+#: main/templates/main/index.html:369
+msgid "Phone"
+msgstr "Հեռախոսահամար"
